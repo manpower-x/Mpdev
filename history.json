@@ -45,20 +45,26 @@
    "t": "2026-10-05T17:32:30-04:00",
    "topic": "crypto",
    "prompt": true
+  },
+  {
+   "t": "2026-10-05T17:37:54-04:00",
+   "topic": "whale",
+   "prompt": true
   }
  ],
  "whales_seen": [
   "BTC-1791210838-s",
   "XRP-1791214431-s",
   "XRP-1791214388-s",
-  "SOL-1791217282-s"
+  "SOL-1791217282-s",
+  "SOL-1791236265-s"
  ],
  "moves_seen": [
   "SHOP.TO-2026-10-05-up"
  ],
  "alerts": {
   "day": "2026-10-05",
-  "n": 5
+  "n": 6
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
