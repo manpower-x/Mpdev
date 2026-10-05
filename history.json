@@ -10,15 +10,22 @@
    "t": "2026-10-05T09:53:15-04:00",
    "topic": "mover",
    "prompt": true
+  },
+  {
+   "t": "2026-10-05T10:52:43-04:00",
+   "topic": "whale",
+   "prompt": true
   }
  ],
- "whales_seen": [],
+ "whales_seen": [
+  "BTC-1791210838-s"
+ ],
  "moves_seen": [
   "SHOP.TO-2026-10-05-up"
  ],
  "alerts": {
   "day": "2026-10-05",
-  "n": 1
+  "n": 2
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
