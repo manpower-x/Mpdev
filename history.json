@@ -1,5 +1,5 @@
 {
- "n": 15,
+ "n": 16,
  "tweets": [
   {
    "t": "2026-10-05T09:27:00-04:00",
@@ -129,6 +129,11 @@
   {
    "t": "2026-10-06T17:20:35-04:00",
    "topic": "rates",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-06T19:00:10-04:00",
+   "topic": "banks",
    "prompt": true
   }
  ],
@@ -320,5 +325,5 @@
   "https://www.statcan.gc.ca/daily-quotidien/261006/dq261006a-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261006/dq261006b-eng.htm"
  ],
- "last_slot": "2026-10-06-17"
+ "last_slot": "2026-10-06-19"
 }
