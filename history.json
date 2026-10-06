@@ -110,6 +110,11 @@
    "t": "2026-10-06T11:04:40-04:00",
    "topic": "housing",
    "prompt": true
+  },
+  {
+   "t": "2026-10-06T12:24:21-04:00",
+   "topic": "mover",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -122,11 +127,12 @@
   "SOL-1791258080-b"
  ],
  "moves_seen": [
-  "SHOP.TO-2026-10-05-up"
+  "SHOP.TO-2026-10-05-up",
+  "AMD-2026-10-06-up"
  ],
  "alerts": {
   "day": "2026-10-06",
-  "n": 4
+  "n": 5
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
