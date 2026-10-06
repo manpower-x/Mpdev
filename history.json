@@ -90,6 +90,16 @@
    "t": "2026-10-06T07:00:22-04:00",
    "topic": "mistake",
    "prompt": true
+  },
+  {
+   "t": "2026-10-06T08:53:32-04:00",
+   "topic": "breaking",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-06T08:53:32-04:00",
+   "topic": "breaking",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -106,7 +116,7 @@
  ],
  "alerts": {
   "day": "2026-10-06",
-  "n": 2
+  "n": 4
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
@@ -275,7 +285,9 @@
   "https://www.bankofcanada.ca/2026/06/bank-canada-publishes-report-monetary-policy-framework-consultations/",
   "https://www.bankofcanada.ca/2026/06/fad-press-release-2026-06-10/",
   "https://www.bankofcanada.ca/2026/05/bank-canada-joins-bis-project-agora-test-improvements-wholesale-cross-border-payments/",
-  "https://www.bankofcanada.ca/2026/05/bank-canada-museum-honours-two-canadian-educators-innovation-classroom/"
+  "https://www.bankofcanada.ca/2026/05/bank-canada-museum-honours-two-canadian-educators-innovation-classroom/",
+  "https://www.statcan.gc.ca/daily-quotidien/261006/dq261006a-eng.htm",
+  "https://www.statcan.gc.ca/daily-quotidien/261006/dq261006b-eng.htm"
  ],
  "last_slot": "2026-10-06-7"
 }
