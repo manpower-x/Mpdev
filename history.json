@@ -1,5 +1,5 @@
 {
- "n": 21,
+ "n": 22,
  "tweets": [
   {
    "t": "2026-10-05T09:27:00-04:00",
@@ -160,6 +160,16 @@
    "t": "2026-10-07T05:03:16-04:00",
    "topic": "news",
    "prompt": true
+  },
+  {
+   "t": "2026-10-07T07:03:03-04:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-07T07:03:03-04:00",
+   "topic": "tech",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -173,11 +183,12 @@
  ],
  "moves_seen": [
   "SHOP.TO-2026-10-05-up",
-  "AMD-2026-10-06-up"
+  "AMD-2026-10-06-up",
+  "ETH-USD-2026-10-07-down"
  ],
  "alerts": {
-  "day": "2026-10-06",
-  "n": 5
+  "day": "2026-10-07",
+  "n": 1
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
@@ -350,5 +361,5 @@
   "https://www.statcan.gc.ca/daily-quotidien/261006/dq261006a-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261006/dq261006b-eng.htm"
  ],
- "last_slot": "2026-10-07-5"
+ "last_slot": "2026-10-07-7"
 }
