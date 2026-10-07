@@ -170,6 +170,11 @@
    "t": "2026-10-07T07:03:03-04:00",
    "topic": "tech",
    "prompt": true
+  },
+  {
+   "t": "2026-10-07T08:57:19-04:00",
+   "topic": "breaking",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -188,7 +193,7 @@
  ],
  "alerts": {
   "day": "2026-10-07",
-  "n": 1
+  "n": 2
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
@@ -359,7 +364,8 @@
   "https://www.bankofcanada.ca/2026/05/bank-canada-joins-bis-project-agora-test-improvements-wholesale-cross-border-payments/",
   "https://www.bankofcanada.ca/2026/05/bank-canada-museum-honours-two-canadian-educators-innovation-classroom/",
   "https://www.statcan.gc.ca/daily-quotidien/261006/dq261006a-eng.htm",
-  "https://www.statcan.gc.ca/daily-quotidien/261006/dq261006b-eng.htm"
+  "https://www.statcan.gc.ca/daily-quotidien/261006/dq261006b-eng.htm",
+  "https://www.statcan.gc.ca/daily-quotidien/261007/dq261007a-eng.htm"
  ],
  "last_slot": "2026-10-07-7"
 }
