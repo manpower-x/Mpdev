@@ -260,6 +260,16 @@
    "t": "2026-10-08T07:23:40-04:00",
    "topic": "mover",
    "prompt": true
+  },
+  {
+   "t": "2026-10-08T08:57:19-04:00",
+   "topic": "breaking",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-08T08:57:19-04:00",
+   "topic": "breaking",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -283,7 +293,7 @@
  ],
  "alerts": {
   "day": "2026-10-08",
-  "n": 2
+  "n": 4
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
@@ -455,7 +465,9 @@
   "https://www.bankofcanada.ca/2026/05/bank-canada-museum-honours-two-canadian-educators-innovation-classroom/",
   "https://www.statcan.gc.ca/daily-quotidien/261006/dq261006a-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261006/dq261006b-eng.htm",
-  "https://www.statcan.gc.ca/daily-quotidien/261007/dq261007a-eng.htm"
+  "https://www.statcan.gc.ca/daily-quotidien/261007/dq261007a-eng.htm",
+  "https://www.statcan.gc.ca/daily-quotidien/261008/dq261008d-eng.htm",
+  "https://www.statcan.gc.ca/daily-quotidien/261008/dq261008a-eng.htm"
  ],
  "last_slot": "2026-10-08-7"
 }
