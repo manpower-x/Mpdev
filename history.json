@@ -255,6 +255,11 @@
    "t": "2026-10-08T07:03:01-04:00",
    "topic": "news",
    "prompt": true
+  },
+  {
+   "t": "2026-10-08T07:23:40-04:00",
+   "topic": "mover",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -273,11 +278,12 @@
   "XRP-USD-2026-10-07-down",
   "MSTR-2026-10-07-down",
   "COIN-2026-10-07-down",
-  "XRP-USD-2026-10-08-down"
+  "XRP-USD-2026-10-08-down",
+  "NZDUSD=X-2026-10-08-down"
  ],
  "alerts": {
   "day": "2026-10-08",
-  "n": 1
+  "n": 2
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
