@@ -390,6 +390,11 @@
    "t": "2026-10-09T15:20:15-04:00",
    "topic": "poll",
    "prompt": true
+  },
+  {
+   "t": "2026-10-09T15:59:06-04:00",
+   "topic": "mover",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -414,11 +419,12 @@
   "ETH-USD-2026-10-08-down",
   "AMD-2026-10-08-down",
   "COIN-2026-10-09-up",
-  "PLTR-2026-10-09-up"
+  "PLTR-2026-10-09-up",
+  "SHOP.TO-2026-10-09-up"
  ],
  "alerts": {
   "day": "2026-10-09",
-  "n": 5
+  "n": 6
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
