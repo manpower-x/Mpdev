@@ -1,11 +1,6 @@
 {
- "n": 51,
+ "n": 52,
  "tweets": [
-  {
-   "t": "2026-10-05T09:27:00-04:00",
-   "topic": "markets",
-   "prompt": true
-  },
   {
    "t": "2026-10-05T09:53:15-04:00",
    "topic": "mover",
@@ -400,6 +395,11 @@
    "t": "2026-10-09T17:00:47-04:00",
    "topic": "housing",
    "prompt": true
+  },
+  {
+   "t": "2026-10-09T19:00:09-04:00",
+   "topic": "hot",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -608,5 +608,5 @@
   "https://www.statcan.gc.ca/daily-quotidien/261009/dq261009f-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261009/dq261009c-eng.htm"
  ],
- "last_slot": "2026-10-09-17"
+ "last_slot": "2026-10-09-19"
 }
