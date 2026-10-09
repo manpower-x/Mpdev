@@ -345,6 +345,21 @@
    "t": "2026-10-09T07:02:47-04:00",
    "topic": "tip",
    "prompt": true
+  },
+  {
+   "t": "2026-10-09T08:55:52-04:00",
+   "topic": "breaking",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-09T08:55:52-04:00",
+   "topic": "breaking",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-09T08:55:52-04:00",
+   "topic": "breaking",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -370,8 +385,8 @@
   "AMD-2026-10-08-down"
  ],
  "alerts": {
-  "day": "2026-10-08",
-  "n": 7
+  "day": "2026-10-09",
+  "n": 3
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
@@ -545,7 +560,10 @@
   "https://www.statcan.gc.ca/daily-quotidien/261006/dq261006b-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261007/dq261007a-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261008/dq261008d-eng.htm",
-  "https://www.statcan.gc.ca/daily-quotidien/261008/dq261008a-eng.htm"
+  "https://www.statcan.gc.ca/daily-quotidien/261008/dq261008a-eng.htm",
+  "https://www.statcan.gc.ca/daily-quotidien/261009/dq261009a-eng.htm",
+  "https://www.statcan.gc.ca/daily-quotidien/261009/dq261009f-eng.htm",
+  "https://www.statcan.gc.ca/daily-quotidien/261009/dq261009c-eng.htm"
  ],
  "last_slot": "2026-10-09-7"
 }
