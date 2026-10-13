@@ -2,11 +2,6 @@
  "n": 81,
  "tweets": [
   {
-   "t": "2026-10-07T03:23:41-04:00",
-   "topic": "tip",
-   "prompt": true
-  },
-  {
    "t": "2026-10-07T05:03:16-04:00",
    "topic": "news",
    "prompt": true
@@ -400,6 +395,11 @@
    "t": "2026-10-12T05:25:43-04:00",
    "topic": "banks",
    "prompt": true
+  },
+  {
+   "t": "2026-10-12T22:06:22-04:00",
+   "topic": "mover",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -425,11 +425,12 @@
   "AMD-2026-10-08-down",
   "COIN-2026-10-09-up",
   "PLTR-2026-10-09-up",
-  "SHOP.TO-2026-10-09-up"
+  "SHOP.TO-2026-10-09-up",
+  "SOL-USD-2026-10-12-down"
  ],
  "alerts": {
-  "day": "2026-10-09",
-  "n": 6
+  "day": "2026-10-12",
+  "n": 1
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
