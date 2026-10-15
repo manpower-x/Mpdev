@@ -1,21 +1,6 @@
 {
- "n": 89,
+ "n": 90,
  "tweets": [
-  {
-   "t": "2026-10-08T08:57:19-04:00",
-   "topic": "breaking",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-08T08:57:19-04:00",
-   "topic": "breaking",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-08T09:25:55-04:00",
-   "topic": "tech",
-   "prompt": true
-  },
   {
    "t": "2026-10-08T11:23:44-04:00",
    "topic": "mover",
@@ -400,6 +385,21 @@
    "t": "2026-10-15T11:18:42-04:00",
    "topic": "poll",
    "prompt": true
+  },
+  {
+   "t": "2026-10-15T15:15:13-04:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-15T15:15:13-04:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-15T15:15:13-04:00",
+   "topic": "housing",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -435,11 +435,13 @@
   "PLTR-2026-10-14-down",
   "ETH-USD-2026-10-15-down",
   "SOL-USD-2026-10-15-down",
-  "AUDUSD=X-2026-10-15-down"
+  "AUDUSD=X-2026-10-15-down",
+  "COIN-2026-10-15-up",
+  "MSTR-2026-10-15-up"
  ],
  "alerts": {
   "day": "2026-10-15",
-  "n": 6
+  "n": 8
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
@@ -622,5 +624,5 @@
   "https://www.statcan.gc.ca/daily-quotidien/261015/dq261015f-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261015/dq261015e-eng.htm"
  ],
- "last_slot": "2026-10-15-11"
+ "last_slot": "2026-10-15-15"
 }
