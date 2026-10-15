@@ -1,26 +1,6 @@
 {
- "n": 88,
+ "n": 89,
  "tweets": [
-  {
-   "t": "2026-10-08T03:23:49-04:00",
-   "topic": "stocks",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-08T05:23:17-04:00",
-   "topic": "tip",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-08T07:03:01-04:00",
-   "topic": "news",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-08T07:23:40-04:00",
-   "topic": "mover",
-   "prompt": true
-  },
   {
    "t": "2026-10-08T08:57:19-04:00",
    "topic": "breaking",
@@ -400,6 +380,26 @@
    "t": "2026-10-15T06:23:01-04:00",
    "topic": "mover",
    "prompt": true
+  },
+  {
+   "t": "2026-10-15T11:18:42-04:00",
+   "topic": "breaking",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-15T11:18:42-04:00",
+   "topic": "breaking",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-15T11:18:42-04:00",
+   "topic": "breaking",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-15T11:18:42-04:00",
+   "topic": "poll",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -439,7 +439,7 @@
  ],
  "alerts": {
   "day": "2026-10-15",
-  "n": 3
+  "n": 6
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
@@ -617,7 +617,10 @@
   "https://www.statcan.gc.ca/daily-quotidien/261009/dq261009a-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261009/dq261009f-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261009/dq261009c-eng.htm",
-  "https://www.statcan.gc.ca/daily-quotidien/261013/dq261013b-eng.htm"
+  "https://www.statcan.gc.ca/daily-quotidien/261013/dq261013b-eng.htm",
+  "https://www.statcan.gc.ca/daily-quotidien/261015/dq261015g-eng.htm",
+  "https://www.statcan.gc.ca/daily-quotidien/261015/dq261015f-eng.htm",
+  "https://www.statcan.gc.ca/daily-quotidien/261015/dq261015e-eng.htm"
  ],
- "last_slot": "2026-10-15-1"
+ "last_slot": "2026-10-15-11"
 }
