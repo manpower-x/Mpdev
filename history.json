@@ -1,11 +1,6 @@
 {
- "n": 92,
+ "n": 93,
  "tweets": [
-  {
-   "t": "2026-10-09T01:03:10-04:00",
-   "topic": "crypto",
-   "prompt": true
-  },
   {
    "t": "2026-10-09T03:23:07-04:00",
    "topic": "forex",
@@ -400,6 +395,11 @@
    "t": "2026-10-16T14:26:40-04:00",
    "topic": "mover",
    "prompt": true
+  },
+  {
+   "t": "2026-10-16T17:38:10-04:00",
+   "topic": "rates",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -632,5 +632,5 @@
   "https://www.statcan.gc.ca/daily-quotidien/261015/dq261015e-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261016/dq261016a-eng.htm"
  ],
- "last_slot": "2026-10-16-5"
+ "last_slot": "2026-10-16-17"
 }
