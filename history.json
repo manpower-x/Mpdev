@@ -2,26 +2,6 @@
  "n": 104,
  "tweets": [
   {
-   "t": "2026-10-09T19:00:09-04:00",
-   "topic": "hot",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-09T21:21:01-04:00",
-   "topic": "markets",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-09T23:00:16-04:00",
-   "topic": "rates",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-10T01:00:24-04:00",
-   "topic": "crypto",
-   "prompt": true
-  },
-  {
    "t": "2026-10-10T03:21:07-04:00",
    "topic": "crypto",
    "prompt": true
@@ -400,6 +380,26 @@
    "t": "2026-10-19T02:59:15-04:00",
    "topic": "mover",
    "prompt": true
+  },
+  {
+   "t": "2026-10-19T10:36:15-04:00",
+   "topic": "breaking",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-19T10:36:15-04:00",
+   "topic": "breaking",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-19T10:36:15-04:00",
+   "topic": "breaking",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-19T10:36:15-04:00",
+   "topic": "mover",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -447,11 +447,12 @@
   "SHOP.TO-2026-10-16-down",
   "AUDUSD=X-2026-10-19-up",
   "NZDUSD=X-2026-10-19-up",
-  "USDCAD=X-2026-10-19-down"
+  "USDCAD=X-2026-10-19-down",
+  "PLTR-2026-10-19-up"
  ],
  "alerts": {
   "day": "2026-10-19",
-  "n": 3
+  "n": 7
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
@@ -633,7 +634,10 @@
   "https://www.statcan.gc.ca/daily-quotidien/261015/dq261015g-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261015/dq261015f-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261015/dq261015e-eng.htm",
-  "https://www.statcan.gc.ca/daily-quotidien/261016/dq261016a-eng.htm"
+  "https://www.statcan.gc.ca/daily-quotidien/261016/dq261016a-eng.htm",
+  "https://www.statcan.gc.ca/daily-quotidien/261019/dq261019b-eng.htm",
+  "https://www.statcan.gc.ca/daily-quotidien/261019/dq261019f-eng.htm",
+  "https://www.statcan.gc.ca/daily-quotidien/261019/dq261019a-eng.htm"
  ],
  "last_slot": "2026-10-18-21"
 }
