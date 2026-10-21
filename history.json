@@ -2,16 +2,6 @@
  "n": 110,
  "tweets": [
   {
-   "t": "2026-10-10T23:00:52-04:00",
-   "topic": "rates",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-11T01:00:46-04:00",
-   "topic": "rates",
-   "prompt": true
-  },
-  {
    "t": "2026-10-11T03:21:36-04:00",
    "topic": "crypto",
    "prompt": true
@@ -400,6 +390,16 @@
    "t": "2026-10-21T05:36:11-04:00",
    "topic": "stocks",
    "prompt": true
+  },
+  {
+   "t": "2026-10-21T14:59:33-04:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-21T14:59:33-04:00",
+   "topic": "mover",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -450,11 +450,13 @@
   "USDCAD=X-2026-10-19-down",
   "PLTR-2026-10-19-up",
   "MSTR-2026-10-20-up",
-  "XRP-USD-2026-10-21-up"
+  "XRP-USD-2026-10-21-up",
+  "MSTR-2026-10-21-up",
+  "COIN-2026-10-21-up"
  ],
  "alerts": {
   "day": "2026-10-21",
-  "n": 1
+  "n": 3
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
