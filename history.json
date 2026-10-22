@@ -2,16 +2,6 @@
  "n": 113,
  "tweets": [
   {
-   "t": "2026-10-12T05:25:43-04:00",
-   "topic": "banks",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-12T22:06:22-04:00",
-   "topic": "mover",
-   "prompt": true
-  },
-  {
    "t": "2026-10-13T05:20:21-04:00",
    "topic": "crypto",
    "prompt": true
@@ -400,6 +390,16 @@
    "t": "2026-10-22T15:27:12-04:00",
    "topic": "tech",
    "prompt": true
+  },
+  {
+   "t": "2026-10-22T18:41:50-04:00",
+   "topic": "breaking",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-22T18:41:50-04:00",
+   "topic": "breaking",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -463,7 +463,7 @@
  ],
  "alerts": {
   "day": "2026-10-22",
-  "n": 10
+  "n": 12
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
@@ -653,7 +653,9 @@
   "https://www.statcan.gc.ca/daily-quotidien/261020/dq261020a-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261021/dq261021f-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261022/dq261022c-eng.htm",
-  "https://www.statcan.gc.ca/daily-quotidien/261021/dq261021g-eng.htm"
+  "https://www.statcan.gc.ca/daily-quotidien/261021/dq261021g-eng.htm",
+  "https://www.statcan.gc.ca/daily-quotidien/261022/dq261022d-eng.htm",
+  "https://www.statcan.gc.ca/daily-quotidien/261022/dq261022a-eng.htm"
  ],
  "last_slot": "2026-10-22-15"
 }
