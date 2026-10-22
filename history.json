@@ -2,11 +2,6 @@
  "n": 111,
  "tweets": [
   {
-   "t": "2026-10-11T05:21:09-04:00",
-   "topic": "crypto",
-   "prompt": true
-  },
-  {
    "t": "2026-10-11T07:02:38-04:00",
    "topic": "tip",
    "prompt": true
@@ -400,6 +395,11 @@
    "t": "2026-10-22T01:27:57-04:00",
    "topic": "tip",
    "prompt": true
+  },
+  {
+   "t": "2026-10-22T06:34:06-04:00",
+   "topic": "mover",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -452,11 +452,12 @@
   "MSTR-2026-10-20-up",
   "XRP-USD-2026-10-21-up",
   "MSTR-2026-10-21-up",
-  "COIN-2026-10-21-up"
+  "COIN-2026-10-21-up",
+  "USDJPY=X-2026-10-22-down"
  ],
  "alerts": {
-  "day": "2026-10-21",
-  "n": 3
+  "day": "2026-10-22",
+  "n": 1
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
