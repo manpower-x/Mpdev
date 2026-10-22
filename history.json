@@ -1,26 +1,6 @@
 {
- "n": 111,
+ "n": 112,
  "tweets": [
-  {
-   "t": "2026-10-11T07:02:38-04:00",
-   "topic": "tip",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-11T09:21:24-04:00",
-   "topic": "tip",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-11T11:19:58-04:00",
-   "topic": "tip",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-11T13:00:00-04:00",
-   "topic": "news",
-   "prompt": true
-  },
   {
    "t": "2026-10-11T15:19:38-04:00",
    "topic": "tech",
@@ -400,6 +380,26 @@
    "t": "2026-10-22T06:34:06-04:00",
    "topic": "mover",
    "prompt": true
+  },
+  {
+   "t": "2026-10-22T11:36:06-04:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-22T11:36:06-04:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-22T11:36:06-04:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-22T11:36:06-04:00",
+   "topic": "news",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -453,11 +453,14 @@
   "XRP-USD-2026-10-21-up",
   "MSTR-2026-10-21-up",
   "COIN-2026-10-21-up",
-  "USDJPY=X-2026-10-22-down"
+  "USDJPY=X-2026-10-22-down",
+  "AMD-2026-10-22-down",
+  "META-2026-10-22-down",
+  "MSTR-2026-10-22-down"
  ],
  "alerts": {
   "day": "2026-10-22",
-  "n": 1
+  "n": 4
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
@@ -646,5 +649,5 @@
   "https://www.statcan.gc.ca/daily-quotidien/261020/dq261020b-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261020/dq261020a-eng.htm"
  ],
- "last_slot": "2026-10-22-1"
+ "last_slot": "2026-10-22-11"
 }
