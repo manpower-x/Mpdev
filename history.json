@@ -1,26 +1,6 @@
 {
- "n": 133,
+ "n": 134,
  "tweets": [
-  {
-   "t": "2026-10-16T14:26:40-04:00",
-   "topic": "mover",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-16T14:26:40-04:00",
-   "topic": "mover",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-16T17:38:10-04:00",
-   "topic": "rates",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-16T19:57:39-04:00",
-   "topic": "banks",
-   "prompt": true
-  },
   {
    "t": "2026-10-17T11:53:41-04:00",
    "topic": "crypto",
@@ -400,6 +380,26 @@
    "t": "2026-10-28T10:26:00-04:00",
    "topic": "breaking",
    "prompt": true
+  },
+  {
+   "t": "2026-10-28T15:48:32-04:00",
+   "topic": "breaking",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-28T15:48:32-04:00",
+   "topic": "breaking",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-28T15:48:32-04:00",
+   "topic": "breaking",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-28T15:48:32-04:00",
+   "topic": "crypto",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -471,7 +471,7 @@
  ],
  "alerts": {
   "day": "2026-10-28",
-  "n": 2
+  "n": 5
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
@@ -667,7 +667,10 @@
   "https://www.statcan.gc.ca/daily-quotidien/261023/dq261023d-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261027/dq261027e-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261027/dq261027d-eng.htm",
-  "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/"
+  "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/",
+  "https://www.statcan.gc.ca/daily-quotidien/261028/dq261028e-eng.htm",
+  "https://www.statcan.gc.ca/daily-quotidien/261028/dq261028b-eng.htm",
+  "https://www.statcan.gc.ca/daily-quotidien/261028/dq261028a-eng.htm"
  ],
- "last_slot": "2026-10-28-3"
+ "last_slot": "2026-10-28-15"
 }
