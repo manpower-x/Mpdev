@@ -1,16 +1,6 @@
 {
- "n": 132,
+ "n": 133,
  "tweets": [
-  {
-   "t": "2026-10-16T10:45:06-04:00",
-   "topic": "breaking",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-16T10:45:06-04:00",
-   "topic": "mover",
-   "prompt": true
-  },
   {
    "t": "2026-10-16T14:26:40-04:00",
    "topic": "mover",
@@ -400,6 +390,16 @@
    "t": "2026-10-27T21:37:43-04:00",
    "topic": "rates",
    "prompt": true
+  },
+  {
+   "t": "2026-10-28T03:31:45-04:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-28T03:31:45-04:00",
+   "topic": "banks",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -466,11 +466,12 @@
   "AMD-2026-10-27-up",
   "EURUSD=X-2026-10-27-down",
   "USDJPY=X-2026-10-27-up",
-  "NZDUSD=X-2026-10-27-down"
+  "NZDUSD=X-2026-10-27-down",
+  "NZDUSD=X-2026-10-28-down"
  ],
  "alerts": {
-  "day": "2026-10-27",
-  "n": 6
+  "day": "2026-10-28",
+  "n": 1
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
@@ -667,5 +668,5 @@
   "https://www.statcan.gc.ca/daily-quotidien/261027/dq261027e-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261027/dq261027d-eng.htm"
  ],
- "last_slot": "2026-10-27-21"
+ "last_slot": "2026-10-28-3"
 }
