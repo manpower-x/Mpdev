@@ -12,11 +12,6 @@
    "prompt": true
   },
   {
-   "t": "2026-10-16T14:26:40-04:00",
-   "topic": "mover",
-   "prompt": true
-  },
-  {
    "t": "2026-10-16T17:38:10-04:00",
    "topic": "rates",
    "prompt": true
@@ -400,6 +395,11 @@
    "t": "2026-10-28T03:31:45-04:00",
    "topic": "banks",
    "prompt": true
+  },
+  {
+   "t": "2026-10-28T10:26:00-04:00",
+   "topic": "breaking",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -471,7 +471,7 @@
  ],
  "alerts": {
   "day": "2026-10-28",
-  "n": 1
+  "n": 2
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
@@ -666,7 +666,8 @@
   "https://www.statcan.gc.ca/daily-quotidien/261022/dq261022a-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261023/dq261023d-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261027/dq261027e-eng.htm",
-  "https://www.statcan.gc.ca/daily-quotidien/261027/dq261027d-eng.htm"
+  "https://www.statcan.gc.ca/daily-quotidien/261027/dq261027d-eng.htm",
+  "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/"
  ],
  "last_slot": "2026-10-28-3"
 }
