@@ -1,36 +1,6 @@
 {
- "n": 139,
+ "n": 140,
  "tweets": [
-  {
-   "t": "2026-10-20T03:43:40-04:00",
-   "topic": "rates",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-20T09:03:22-04:00",
-   "topic": "breaking",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-20T09:03:22-04:00",
-   "topic": "breaking",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-20T09:03:22-04:00",
-   "topic": "banks",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-20T13:56:25-04:00",
-   "topic": "mover",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-20T13:56:25-04:00",
-   "topic": "crypto",
-   "prompt": true
-  },
   {
    "t": "2026-10-20T17:32:13-04:00",
    "topic": "forex",
@@ -400,6 +370,36 @@
    "t": "2026-10-30T10:18:57-04:00",
    "topic": "mover",
    "prompt": true
+  },
+  {
+   "t": "2026-10-30T15:29:35-04:00",
+   "topic": "breaking",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-30T15:29:35-04:00",
+   "topic": "breaking",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-30T15:29:35-04:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-30T15:29:35-04:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-30T15:29:35-04:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-30T15:29:35-04:00",
+   "topic": "mistake",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -477,11 +477,14 @@
   "USDCHF=X-2026-10-29-down",
   "COIN-2026-10-30-down",
   "MSTR-2026-10-30-down",
-  "AMD-2026-10-30-down"
+  "AMD-2026-10-30-down",
+  "SHOP.TO-2026-10-30-down",
+  "PLTR-2026-10-30-down",
+  "SOL-USD-2026-10-30-down"
  ],
  "alerts": {
   "day": "2026-10-30",
-  "n": 4
+  "n": 9
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
@@ -683,7 +686,9 @@
   "https://www.statcan.gc.ca/daily-quotidien/261028/dq261028a-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261029/dq261029a-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261029/dq261029f-eng.htm",
-  "https://www.statcan.gc.ca/daily-quotidien/261030/dq261030a-eng.htm"
+  "https://www.statcan.gc.ca/daily-quotidien/261030/dq261030a-eng.htm",
+  "https://www.statcan.gc.ca/daily-quotidien/261030/dq261030h-eng.htm",
+  "https://www.statcan.gc.ca/daily-quotidien/261030/dq261030g-eng.htm"
  ],
- "last_slot": "2026-10-30-3"
+ "last_slot": "2026-10-30-15"
 }
