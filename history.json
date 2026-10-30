@@ -1,26 +1,6 @@
 {
- "n": 137,
+ "n": 138,
  "tweets": [
-  {
-   "t": "2026-10-18T21:50:46-04:00",
-   "topic": "hot",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-19T02:59:15-04:00",
-   "topic": "mover",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-19T02:59:15-04:00",
-   "topic": "mover",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-19T02:59:15-04:00",
-   "topic": "mover",
-   "prompt": true
-  },
   {
    "t": "2026-10-19T10:36:15-04:00",
    "topic": "breaking",
@@ -400,6 +380,26 @@
    "t": "2026-10-29T17:22:54-04:00",
    "topic": "tip",
    "prompt": true
+  },
+  {
+   "t": "2026-10-29T21:19:06-04:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-29T21:19:06-04:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-29T21:19:06-04:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-10-29T21:19:06-04:00",
+   "topic": "news",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -471,11 +471,14 @@
   "NZDUSD=X-2026-10-29-down",
   "GOOGL-2026-10-29-down",
   "XRP-USD-2026-10-29-down",
-  "SOL-USD-2026-10-29-down"
+  "SOL-USD-2026-10-29-down",
+  "ETH-USD-2026-10-29-down",
+  "BTC-USD-2026-10-29-down",
+  "USDCHF=X-2026-10-29-down"
  ],
  "alerts": {
   "day": "2026-10-29",
-  "n": 6
+  "n": 9
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
@@ -678,5 +681,5 @@
   "https://www.statcan.gc.ca/daily-quotidien/261029/dq261029a-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261029/dq261029f-eng.htm"
  ],
- "last_slot": "2026-10-29-17"
+ "last_slot": "2026-10-29-21"
 }
