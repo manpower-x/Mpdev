@@ -2,36 +2,6 @@
  "n": 147,
  "tweets": [
   {
-   "t": "2026-10-22T15:27:12-04:00",
-   "topic": "mover",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-22T15:27:12-04:00",
-   "topic": "tech",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-22T18:41:50-04:00",
-   "topic": "breaking",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-22T18:41:50-04:00",
-   "topic": "breaking",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-22T21:01:31-04:00",
-   "topic": "mistake",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-23T01:57:02-04:00",
-   "topic": "mover",
-   "prompt": true
-  },
-  {
    "t": "2026-10-23T01:57:02-04:00",
    "topic": "poll",
    "prompt": true
@@ -400,6 +370,36 @@
    "t": "2026-11-03T21:29:13-05:00",
    "topic": "crypto",
    "prompt": true
+  },
+  {
+   "t": "2026-11-04T12:35:51-05:00",
+   "topic": "breaking",
+   "prompt": true
+  },
+  {
+   "t": "2026-11-04T12:35:51-05:00",
+   "topic": "breaking",
+   "prompt": true
+  },
+  {
+   "t": "2026-11-04T12:35:51-05:00",
+   "topic": "breaking",
+   "prompt": true
+  },
+  {
+   "t": "2026-11-04T12:35:51-05:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-11-04T12:35:51-05:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-11-04T12:35:51-05:00",
+   "topic": "mover",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -487,10 +487,13 @@
   "AUDUSD=X-2026-11-03-down",
   "COIN-2026-11-03-up",
   "SHOP.TO-2026-11-03-down",
-  "AMD-2026-11-03-up"
+  "AMD-2026-11-03-up",
+  "AMZN-2026-11-04-up",
+  "MSTR-2026-11-04-up",
+  "AAPL-2026-11-04-up"
  ],
  "alerts": {
-  "day": "2026-11-03",
+  "day": "2026-11-04",
   "n": 6
  },
  "seen": [
@@ -697,7 +700,10 @@
   "https://www.statcan.gc.ca/daily-quotidien/261030/dq261030h-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261030/dq261030g-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261102/dq261102b-eng.htm",
-  "https://www.statcan.gc.ca/daily-quotidien/261103/dq261103b-eng.htm"
+  "https://www.statcan.gc.ca/daily-quotidien/261103/dq261103b-eng.htm",
+  "https://www.statcan.gc.ca/daily-quotidien/261104/dq261104g-eng.htm",
+  "https://www.statcan.gc.ca/daily-quotidien/261104/dq261104a-eng.htm",
+  "https://www.statcan.gc.ca/daily-quotidien/261104/dq261104c-eng.htm"
  ],
  "last_slot": "2026-11-03-21"
 }
