@@ -1,26 +1,6 @@
 {
- "n": 148,
+ "n": 149,
  "tweets": [
-  {
-   "t": "2026-10-23T11:53:20-04:00",
-   "topic": "hot",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-23T15:55:47-04:00",
-   "topic": "markets",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-23T19:03:36-04:00",
-   "topic": "rates",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-23T21:30:40-04:00",
-   "topic": "banks",
-   "prompt": true
-  },
   {
    "t": "2026-10-24T07:30:46-04:00",
    "topic": "crypto",
@@ -400,6 +380,26 @@
    "t": "2026-11-04T17:51:10-05:00",
    "topic": "forex",
    "prompt": true
+  },
+  {
+   "t": "2026-11-04T21:55:14-05:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-11-04T21:55:14-05:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-11-04T21:55:14-05:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-11-04T21:55:14-05:00",
+   "topic": "stocks",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -491,11 +491,14 @@
   "AMZN-2026-11-04-up",
   "MSTR-2026-11-04-up",
   "AAPL-2026-11-04-up",
-  "ETH-USD-2026-11-04-up"
+  "ETH-USD-2026-11-04-up",
+  "SOL-USD-2026-11-04-up",
+  "BTC-USD-2026-11-04-up",
+  "NZDUSD=X-2026-11-04-up"
  ],
  "alerts": {
   "day": "2026-11-04",
-  "n": 8
+  "n": 11
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
@@ -707,5 +710,5 @@
   "https://www.statcan.gc.ca/daily-quotidien/261104/dq261104c-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261104/dq261104e-eng.htm"
  ],
- "last_slot": "2026-11-04-17"
+ "last_slot": "2026-11-04-21"
 }
