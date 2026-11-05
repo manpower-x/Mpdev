@@ -2,26 +2,6 @@
  "n": 151,
  "tweets": [
   {
-   "t": "2026-10-26T07:29:36-04:00",
-   "topic": "mover",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-26T07:29:36-04:00",
-   "topic": "housing",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-26T13:37:28-04:00",
-   "topic": "mover",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-26T13:37:28-04:00",
-   "topic": "hot",
-   "prompt": true
-  },
-  {
    "t": "2026-10-26T17:51:05-04:00",
    "topic": "markets",
    "prompt": true
@@ -400,6 +380,26 @@
    "t": "2026-11-05T13:20:42-05:00",
    "topic": "tip",
    "prompt": true
+  },
+  {
+   "t": "2026-11-05T18:43:53-05:00",
+   "topic": "breaking",
+   "prompt": true
+  },
+  {
+   "t": "2026-11-05T18:43:53-05:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-11-05T18:43:53-05:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-11-05T18:43:53-05:00",
+   "topic": "mover",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -498,11 +498,14 @@
   "NZDUSD=X-2026-11-05-up",
   "AMD-2026-11-05-down",
   "TSLA-2026-11-05-down",
-  "COIN-2026-11-05-down"
+  "COIN-2026-11-05-down",
+  "ETH-USD-2026-11-05-down",
+  "XRP-USD-2026-11-05-down",
+  "SOL-USD-2026-11-05-down"
  ],
  "alerts": {
   "day": "2026-11-05",
-  "n": 6
+  "n": 10
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
@@ -714,7 +717,8 @@
   "https://www.statcan.gc.ca/daily-quotidien/261104/dq261104c-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261104/dq261104e-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261105/dq261105b-eng.htm",
-  "https://www.statcan.gc.ca/daily-quotidien/261105/dq261105a-eng.htm"
+  "https://www.statcan.gc.ca/daily-quotidien/261105/dq261105a-eng.htm",
+  "https://www.bankofcanada.ca/2026/11/joint-statement-of-the-government-of-canada-and-the-bank-of-canada-on-the-renewal-of-the-monetary-policy-framework-2026/"
  ],
  "last_slot": "2026-11-05-13"
 }
