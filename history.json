@@ -1,41 +1,6 @@
 {
- "n": 151,
+ "n": 152,
  "tweets": [
-  {
-   "t": "2026-10-27T21:37:43-04:00",
-   "topic": "mover",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-27T21:37:43-04:00",
-   "topic": "rates",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-28T03:31:45-04:00",
-   "topic": "mover",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-28T03:31:45-04:00",
-   "topic": "banks",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-28T10:26:00-04:00",
-   "topic": "breaking",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-28T15:48:32-04:00",
-   "topic": "breaking",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-28T15:48:32-04:00",
-   "topic": "breaking",
-   "prompt": true
-  },
   {
    "t": "2026-10-28T15:48:32-04:00",
    "topic": "breaking",
@@ -400,6 +365,41 @@
    "t": "2026-11-06T06:37:04-05:00",
    "topic": "mover",
    "prompt": true
+  },
+  {
+   "t": "2026-11-06T13:25:56-05:00",
+   "topic": "breaking",
+   "prompt": true
+  },
+  {
+   "t": "2026-11-06T13:25:56-05:00",
+   "topic": "breaking",
+   "prompt": true
+  },
+  {
+   "t": "2026-11-06T13:25:56-05:00",
+   "topic": "breaking",
+   "prompt": true
+  },
+  {
+   "t": "2026-11-06T13:25:56-05:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-11-06T13:25:56-05:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-11-06T13:25:56-05:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-11-06T13:25:56-05:00",
+   "topic": "tech",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -507,11 +507,14 @@
   "NZDUSD=X-2026-11-05-down",
   "XRP-USD-2026-11-06-down",
   "ETH-USD-2026-11-06-down",
-  "SOL-USD-2026-11-06-down"
+  "SOL-USD-2026-11-06-down",
+  "AMD-2026-11-06-up",
+  "SHOP.TO-2026-11-06-up",
+  "TSLA-2026-11-06-up"
  ],
  "alerts": {
   "day": "2026-11-06",
-  "n": 3
+  "n": 9
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
@@ -724,7 +727,10 @@
   "https://www.statcan.gc.ca/daily-quotidien/261104/dq261104e-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261105/dq261105b-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261105/dq261105a-eng.htm",
-  "https://www.bankofcanada.ca/2026/11/joint-statement-of-the-government-of-canada-and-the-bank-of-canada-on-the-renewal-of-the-monetary-policy-framework-2026/"
+  "https://www.bankofcanada.ca/2026/11/joint-statement-of-the-government-of-canada-and-the-bank-of-canada-on-the-renewal-of-the-monetary-policy-framework-2026/",
+  "https://www.statcan.gc.ca/daily-quotidien/261106/dq261106a-eng.htm",
+  "https://www.statcan.gc.ca/daily-quotidien/261106/dq261106d-eng.htm",
+  "https://www.statcan.gc.ca/daily-quotidien/261106/dq261106d-eng.htm"
  ],
- "last_slot": "2026-11-05-13"
+ "last_slot": "2026-11-06-13"
 }
