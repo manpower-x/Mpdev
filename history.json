@@ -2,21 +2,6 @@
  "n": 157,
  "tweets": [
   {
-   "t": "2026-10-29T17:22:54-04:00",
-   "topic": "tip",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-29T21:19:06-04:00",
-   "topic": "mover",
-   "prompt": true
-  },
-  {
-   "t": "2026-10-29T21:19:06-04:00",
-   "topic": "mover",
-   "prompt": true
-  },
-  {
    "t": "2026-10-29T21:19:06-04:00",
    "topic": "mover",
    "prompt": true
@@ -400,6 +385,21 @@
    "t": "2026-11-09T03:43:15-05:00",
    "topic": "markets",
    "prompt": true
+  },
+  {
+   "t": "2026-11-09T14:13:41-05:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-11-09T14:13:41-05:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-11-09T14:13:41-05:00",
+   "topic": "mover",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -515,11 +515,14 @@
   "NZDUSD=X-2026-11-06-down",
   "USDCAD=X-2026-11-06-up",
   "XRP-USD-2026-11-09-down",
-  "ETH-USD-2026-11-09-down"
+  "ETH-USD-2026-11-09-down",
+  "AMD-2026-11-09-up",
+  "NVDA-2026-11-09-down",
+  "TSLA-2026-11-09-up"
  ],
  "alerts": {
   "day": "2026-11-09",
-  "n": 2
+  "n": 5
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
