@@ -1,31 +1,6 @@
 {
- "n": 163,
+ "n": 164,
  "tweets": [
-  {
-   "t": "2026-11-04T17:51:10-05:00",
-   "topic": "forex",
-   "prompt": true
-  },
-  {
-   "t": "2026-11-04T21:55:14-05:00",
-   "topic": "mover",
-   "prompt": true
-  },
-  {
-   "t": "2026-11-04T21:55:14-05:00",
-   "topic": "mover",
-   "prompt": true
-  },
-  {
-   "t": "2026-11-04T21:55:14-05:00",
-   "topic": "mover",
-   "prompt": true
-  },
-  {
-   "t": "2026-11-04T21:55:14-05:00",
-   "topic": "stocks",
-   "prompt": true
-  },
   {
    "t": "2026-11-05T05:43:18-05:00",
    "topic": "mover",
@@ -400,6 +375,31 @@
    "t": "2026-11-13T03:48:51-05:00",
    "topic": "tip",
    "prompt": true
+  },
+  {
+   "t": "2026-11-13T11:48:04-05:00",
+   "topic": "breaking",
+   "prompt": true
+  },
+  {
+   "t": "2026-11-13T11:48:04-05:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-11-13T11:48:04-05:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-11-13T11:48:04-05:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-11-13T11:48:04-05:00",
+   "topic": "tip",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -543,11 +543,14 @@
   "AMD-2026-11-12-up",
   "NVDA-2026-11-12-down",
   "BTC-USD-2026-11-13-down",
-  "ETH-USD-2026-11-13-down"
+  "ETH-USD-2026-11-13-down",
+  "AMD-2026-11-13-down",
+  "MSTR-2026-11-13-down",
+  "AUDUSD=X-2026-11-13-down"
  ],
  "alerts": {
   "day": "2026-11-13",
-  "n": 2
+  "n": 6
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
@@ -769,7 +772,8 @@
   "https://www.statcan.gc.ca/daily-quotidien/261112/dq261112f-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261112/dq261112b-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261112/dq261112e-eng.htm",
-  "https://www.statcan.gc.ca/daily-quotidien/261112/dq261112d-eng.htm"
+  "https://www.statcan.gc.ca/daily-quotidien/261112/dq261112d-eng.htm",
+  "https://www.statcan.gc.ca/daily-quotidien/261113/dq261113c-eng.htm"
  ],
- "last_slot": "2026-11-13-3"
+ "last_slot": "2026-11-13-11"
 }
