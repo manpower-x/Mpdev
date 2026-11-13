@@ -7,11 +7,6 @@
    "prompt": true
   },
   {
-   "t": "2026-11-04T12:35:51-05:00",
-   "topic": "mover",
-   "prompt": true
-  },
-  {
    "t": "2026-11-04T17:51:10-05:00",
    "topic": "breaking",
    "prompt": true
@@ -400,6 +395,11 @@
    "t": "2026-11-12T15:55:41-05:00",
    "topic": "stocks",
    "prompt": true
+  },
+  {
+   "t": "2026-11-12T20:46:35-05:00",
+   "topic": "breaking",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -545,7 +545,7 @@
  ],
  "alerts": {
   "day": "2026-11-12",
-  "n": 9
+  "n": 10
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
@@ -766,7 +766,8 @@
   "https://www.statcan.gc.ca/daily-quotidien/261110/dq261110c-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261112/dq261112f-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261112/dq261112b-eng.htm",
-  "https://www.statcan.gc.ca/daily-quotidien/261112/dq261112e-eng.htm"
+  "https://www.statcan.gc.ca/daily-quotidien/261112/dq261112e-eng.htm",
+  "https://www.statcan.gc.ca/daily-quotidien/261112/dq261112d-eng.htm"
  ],
  "last_slot": "2026-11-12-15"
 }
