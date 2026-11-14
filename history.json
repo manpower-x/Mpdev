@@ -13,11 +13,6 @@
   },
   {
    "t": "2026-11-05T13:20:42-05:00",
-   "topic": "mover",
-   "prompt": true
-  },
-  {
-   "t": "2026-11-05T13:20:42-05:00",
    "topic": "tip",
    "prompt": true
   },
@@ -400,6 +395,11 @@
    "t": "2026-11-13T21:29:59-05:00",
    "topic": "mistake",
    "prompt": true
+  },
+  {
+   "t": "2026-11-14T04:20:39-05:00",
+   "topic": "mover",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -548,11 +548,12 @@
   "MSTR-2026-11-13-down",
   "AUDUSD=X-2026-11-13-down",
   "USDCHF=X-2026-11-13-up",
-  "SOL-USD-2026-11-13-down"
+  "SOL-USD-2026-11-13-down",
+  "SOL-USD-2026-11-14-down"
  ],
  "alerts": {
-  "day": "2026-11-13",
-  "n": 8
+  "day": "2026-11-14",
+  "n": 1
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
