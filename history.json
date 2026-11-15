@@ -7,11 +7,6 @@
    "prompt": true
   },
   {
-   "t": "2026-11-05T22:43:42-05:00",
-   "topic": "mover",
-   "prompt": true
-  },
-  {
    "t": "2026-11-06T06:37:04-05:00",
    "topic": "mover",
    "prompt": true
@@ -400,6 +395,11 @@
    "t": "2026-11-15T09:42:29-05:00",
    "topic": "hot",
    "prompt": true
+  },
+  {
+   "t": "2026-11-15T18:55:43-05:00",
+   "topic": "mover",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -554,11 +554,12 @@
   "XRP-USD-2026-11-14-down",
   "BTC-USD-2026-11-14-down",
   "SOL-USD-2026-11-15-down",
-  "ETH-USD-2026-11-15-down"
+  "ETH-USD-2026-11-15-down",
+  "XRP-USD-2026-11-15-up"
  ],
  "alerts": {
   "day": "2026-11-15",
-  "n": 2
+  "n": 3
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
