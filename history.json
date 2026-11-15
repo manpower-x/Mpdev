@@ -2,16 +2,6 @@
  "n": 168,
  "tweets": [
   {
-   "t": "2026-11-05T18:43:53-05:00",
-   "topic": "mover",
-   "prompt": true
-  },
-  {
-   "t": "2026-11-05T18:43:53-05:00",
-   "topic": "mover",
-   "prompt": true
-  },
-  {
    "t": "2026-11-05T22:43:42-05:00",
    "topic": "mover",
    "prompt": true
@@ -400,6 +390,16 @@
    "t": "2026-11-14T19:24:06-05:00",
    "topic": "housing",
    "prompt": true
+  },
+  {
+   "t": "2026-11-15T02:05:52-05:00",
+   "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-11-15T02:05:52-05:00",
+   "topic": "mover",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -552,11 +552,13 @@
   "SOL-USD-2026-11-14-down",
   "ETH-USD-2026-11-14-down",
   "XRP-USD-2026-11-14-down",
-  "BTC-USD-2026-11-14-down"
+  "BTC-USD-2026-11-14-down",
+  "SOL-USD-2026-11-15-down",
+  "ETH-USD-2026-11-15-down"
  ],
  "alerts": {
-  "day": "2026-11-14",
-  "n": 4
+  "day": "2026-11-15",
+  "n": 2
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
