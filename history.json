@@ -1,11 +1,6 @@
 {
- "n": 171,
+ "n": 172,
  "tweets": [
-  {
-   "t": "2026-11-06T13:25:56-05:00",
-   "topic": "mover",
-   "prompt": true
-  },
   {
    "t": "2026-11-06T13:25:56-05:00",
    "topic": "mover",
@@ -400,6 +395,11 @@
    "t": "2026-11-16T11:03:54-05:00",
    "topic": "rates",
    "prompt": true
+  },
+  {
+   "t": "2026-11-16T19:10:38-05:00",
+   "topic": "banks",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -790,5 +790,5 @@
   "https://www.bankofcanada.ca/2026/11/bank-of-canada-governor-tiff-macklem-to-step-down-in-june-2027/",
   "https://www.statcan.gc.ca/daily-quotidien/261116/dq261116a-eng.htm"
  ],
- "last_slot": "2026-11-16-11"
+ "last_slot": "2026-11-16-19"
 }
