@@ -1,11 +1,6 @@
 {
- "n": 180,
+ "n": 181,
  "tweets": [
-  {
-   "t": "2026-11-11T18:40:13-05:00",
-   "topic": "mover",
-   "prompt": true
-  },
   {
    "t": "2026-11-11T18:40:13-05:00",
    "topic": "mover",
@@ -399,6 +394,11 @@
   {
    "t": "2026-11-21T02:26:13-05:00",
    "topic": "mover",
+   "prompt": true
+  },
+  {
+   "t": "2026-11-22T03:08:28-05:00",
+   "topic": "housing",
    "prompt": true
   }
  ],
@@ -817,5 +817,5 @@
   "https://www.statcan.gc.ca/daily-quotidien/261120/dq261120d-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261120/dq261120b-eng.htm"
  ],
- "last_slot": "2026-11-20-19"
+ "last_slot": "2026-11-22-3"
 }
