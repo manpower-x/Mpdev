@@ -1,16 +1,6 @@
 {
- "n": 183,
+ "n": 184,
  "tweets": [
-  {
-   "t": "2026-11-11T23:23:10-05:00",
-   "topic": "forex",
-   "prompt": true
-  },
-  {
-   "t": "2026-11-12T08:10:20-05:00",
-   "topic": "mover",
-   "prompt": true
-  },
   {
    "t": "2026-11-12T08:10:20-05:00",
    "topic": "mover",
@@ -400,6 +390,16 @@
    "t": "2026-11-22T21:32:17-05:00",
    "topic": "rates",
    "prompt": true
+  },
+  {
+   "t": "2026-11-23T17:43:53-05:00",
+   "topic": "breaking",
+   "prompt": true
+  },
+  {
+   "t": "2026-11-23T17:43:53-05:00",
+   "topic": "rates",
+   "prompt": true
   }
  ],
  "whales_seen": [
@@ -578,8 +578,8 @@
   "SOL-USD-2026-11-21-down"
  ],
  "alerts": {
-  "day": "2026-11-21",
-  "n": 5
+  "day": "2026-11-23",
+  "n": 1
  },
  "seen": [
   "https://www.statcan.gc.ca/daily-quotidien/260924/dq260924b-eng.htm",
@@ -815,7 +815,8 @@
   "https://www.statcan.gc.ca/daily-quotidien/261119/dq261119d-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261120/dq261120g-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261120/dq261120d-eng.htm",
-  "https://www.statcan.gc.ca/daily-quotidien/261120/dq261120b-eng.htm"
+  "https://www.statcan.gc.ca/daily-quotidien/261120/dq261120b-eng.htm",
+  "https://www.statcan.gc.ca/daily-quotidien/261123/dq261123f-eng.htm"
  ],
- "last_slot": "2026-11-22-21"
+ "last_slot": "2026-11-23-17"
 }
