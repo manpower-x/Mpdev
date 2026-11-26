@@ -1,11 +1,6 @@
 {
- "n": 188,
+ "n": 189,
  "tweets": [
-  {
-   "t": "2026-11-13T11:48:04-05:00",
-   "topic": "tip",
-   "prompt": true
-  },
   {
    "t": "2026-11-13T17:15:03-05:00",
    "topic": "mover",
@@ -399,6 +394,11 @@
   {
    "t": "2026-11-25T15:41:29-05:00",
    "topic": "stocks",
+   "prompt": true
+  },
+  {
+   "t": "2026-11-26T07:51:05-05:00",
+   "topic": "tip",
    "prompt": true
   }
  ],
@@ -831,5 +831,5 @@
   "https://www.statcan.gc.ca/daily-quotidien/261125/dq261125e-eng.htm",
   "https://www.statcan.gc.ca/daily-quotidien/261125/dq261125d-eng.htm"
  ],
- "last_slot": "2026-11-25-15"
+ "last_slot": "2026-11-26-7"
 }
